@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LatihanPertemuan3</string>
+    <string-array name="prodi">
+        <item>Ilmu Informartika</item>
+        <item>Industri</item>
+        <item>Hukum</item>
+        <item>Akupuntur dan Pengobatan Herbal</item>
+        <item>Akutansi</item>
+        <item>Manajemen Perhotelan</item>
+        <item>Manajemen Pemasaran</item>
+    </string-array>
+</resources>
